@@ -1,5 +1,9 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D4E16AQH-PDnXz8RRzQ/profile-displaybackgroundimage-shrink_350_1400/B4EZk44y.ZKYAY-/0/1757596037896?e=1762387200&v=beta&t=m32oTvOnTjo5SpljenT1uZri3PXTrPLpfWmv7R4v53w" width="800" height="300"/>
+</div>
+
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/robertosanchez-dataanalyst">
+  <a href="https://www.linkedin.com/in/robertosanchez-dataanalyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
