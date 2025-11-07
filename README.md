@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D4E16AQH-PDnXz8RRzQ/profile-displaybackgroundimage-shrink_350_1400/B4EZk44y.ZKYAY-/0/1757596037896?e=1762387200&v=beta&t=m32oTvOnTjo5SpljenT1uZri3PXTrPLpfWmv7R4v53w" width="800" height="300"/>
+  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D4E16AQH-PDnXz8RRzQ/profile-displaybackgroundimage-shrink_350_1400/B4EZk44y.ZKYAY-/0/1757596037896?e=1764201600&v=beta&t=BBX1txcAABaH71iASEzc4RlBsOnsQlGCijY8y8HkPmY" width="800" height="300"/>
 </div>
 
 <div id="badges" align="center">
